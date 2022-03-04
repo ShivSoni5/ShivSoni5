@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '01 * * * *'
+    - cron: '*/3 * * * *'
 
 jobs:
   build:
@@ -14,7 +14,7 @@ jobs:
     steps:
       - name: Checkout current repository to main branch
         uses: actions/checkout@v1
-      - name: Setup NodeJs 13.x
+      - name: Setup NodeJs 14.x
         uses: actions/setup-node@v1
         with:
           node-version: '14'
@@ -31,3 +31,4 @@ jobs:
         uses: mikeal/publish-to-github-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH_NAME: main
