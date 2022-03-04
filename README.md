@@ -26,7 +26,7 @@
 
 ---
 
-*I’ve noticed lately that the paranoid fear of computers becoming intelligent and taking over the world has almost entirely disappeared from the common culture.  Near as I can tell, this coincides with the release of MS-DOS.*
+*QA Engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard. Orders -1 beers. Orders a sfdeljknesv.*
 <div align="right">
-~ Larry DeLuca
+~ Bill Sempf
 </div>
