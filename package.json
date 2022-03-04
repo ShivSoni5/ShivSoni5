@@ -4,7 +4,8 @@
   "description": "### Welcome to my page! ### I'm Shiv Soni, Fullstack developer from India :india: .",
   "main": "index.js",
   "dependencies": {
-    "mustache": "^4.2.0"
+    "mustache": "^4.2.0",
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {},
   "scripts": {

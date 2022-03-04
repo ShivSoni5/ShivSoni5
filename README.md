@@ -1,4 +1,4 @@
-# Hi there! 👋
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
 
 #### Welcome to my page!
 #### I'm [Shiv Soni](https://shivsoni5.github.io/portfolio/), Fullstack developer from India :india: .
@@ -23,3 +23,10 @@
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ShivSoni05)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivsoni5/)
 [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivsoni.dev@gmail.com)
+
+---
+
+*I’ve noticed lately that the paranoid fear of computers becoming intelligent and taking over the world has almost entirely disappeared from the common culture.  Near as I can tell, this coincides with the release of MS-DOS.*
+<div align="right">
+~ Larry DeLuca
+</div>
