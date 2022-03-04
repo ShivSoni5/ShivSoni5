@@ -1,4 +1,13 @@
-# Hi there 👋
+# Hi there! 👋
+
+Welcome to my page!
+I'm Shiv Soni, Fullstack developer from India.
+
+## Things I code with
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white)
+![NodeJS](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 <!--
 **ShivSoni5/ShivSoni5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
