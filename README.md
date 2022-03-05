@@ -26,7 +26,7 @@
 
 ---
 
-*QA Engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard. Orders -1 beers. Orders a sfdeljknesv.*
+*Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.*
 <div align="right">
-~ Bill Sempf
+~ Rick Osborne
 </div>
