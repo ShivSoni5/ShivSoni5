@@ -26,7 +26,7 @@
 
 ---
 
-*Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.*
+*Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.*
 <div align="right">
-~ Rick Osborne
+  <i>~ Brian Kernighan</i>
 </div>
