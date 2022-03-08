@@ -26,7 +26,7 @@
 
 ---
 
-*XML is like violence – if it doesn’t solve your problems, you are not using enough of it.*
+*If Java had true garbage collection, most programs would delete themselves upon execution.*
 <div align="right">
-  <i>~ Unknown</i>
+  <i>~ Robert Sewell</i>
 </div>
