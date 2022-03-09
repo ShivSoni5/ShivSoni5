@@ -26,7 +26,7 @@
 
 ---
 
-*If Java had true garbage collection, most programs would delete themselves upon execution.*
+*Computers are like bikinis. They save people a lot of guesswork.*
 <div align="right">
-  <i>~ Robert Sewell</i>
+  <i>~ Sam Ewing</i>
 </div>
