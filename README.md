@@ -26,7 +26,7 @@
 
 ---
 
-*Computers are like bikinis. They save people a lot of guesswork.*
+*Measuring programming progress by lines of code is like measuring aircraft building progress by weight.*
 <div align="right">
-  <i>~ Sam Ewing</i>
+  <i>~ Bill Gates</i>
 </div>
