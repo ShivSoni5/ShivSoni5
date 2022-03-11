@@ -26,7 +26,7 @@
 
 ---
 
-*Measuring programming progress by lines of code is like measuring aircraft building progress by weight.*
+*QA Engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard. Orders -1 beers. Orders a sfdeljknesv.*
 <div align="right">
-  <i>~ Bill Gates</i>
+  <i>~ Bill Sempf</i>
 </div>
