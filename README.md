@@ -26,7 +26,7 @@
 
 ---
 
-*QA Engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard. Orders -1 beers. Orders a sfdeljknesv.*
+*Two things are infinite: the universe and human stupidity; and I’m not sure about the universe.*
 <div align="right">
-  <i>~ Bill Sempf</i>
+  <i>~ Albert Einstein</i>
 </div>
