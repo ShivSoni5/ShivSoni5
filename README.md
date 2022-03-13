@@ -26,7 +26,7 @@
 
 ---
 
-*Two things are infinite: the universe and human stupidity; and I’m not sure about the universe.*
+*A computer lets you make more mistakes faster than any other invention in human history, with the possible exceptions of handguns and tequila.*
 <div align="right">
-  <i>~ Albert Einstein</i>
+  <i>~ Mitch Ratcliffe</i>
 </div>
