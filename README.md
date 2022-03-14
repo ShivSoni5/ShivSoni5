@@ -26,7 +26,7 @@
 
 ---
 
-*A computer lets you make more mistakes faster than any other invention in human history, with the possible exceptions of handguns and tequila.*
+*Computers are like bikinis. They save people a lot of guesswork.*
 <div align="right">
-  <i>~ Mitch Ratcliffe</i>
+  <i>~ Sam Ewing</i>
 </div>
