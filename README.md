@@ -26,7 +26,7 @@
 
 ---
 
-*Perl – The only language that looks the same before and after RSA encryption.*
+*Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.*
 <div align="right">
-  <i>~ Keith Bostic</i>
+  <i>~ Rich Cook</i>
 </div>
