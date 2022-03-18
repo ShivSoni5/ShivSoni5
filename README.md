@@ -26,7 +26,7 @@
 
 ---
 
-*Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.*
+*Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.*
 <div align="right">
-  <i>~ Alan Kay</i>
+  <i>~ Rich Cook</i>
 </div>
