@@ -26,7 +26,7 @@
 
 ---
 
-*We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil.*
+*Documentation is like sex; when it&#39;s good, it&#39;s very, very good, and when it&#39;s bad, it&#39;s better than nothing.*
 <div align="right">
-  <i>~ C. A. R. Hoare</i>
+  <i>~ Dick Brandon</i>
 </div>
