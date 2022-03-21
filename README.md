@@ -26,7 +26,7 @@
 
 ---
 
-*Documentation is like sex; when it&#39;s good, it&#39;s very, very good, and when it&#39;s bad, it&#39;s better than nothing.*
+*In theory, theory and practice are the same. In practice, they’re not.*
 <div align="right">
-  <i>~ Dick Brandon</i>
+  <i>~ Yogi Berra</i>
 </div>
