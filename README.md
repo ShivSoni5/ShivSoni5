@@ -26,7 +26,7 @@
 
 ---
 
-*In theory, theory and practice are the same. In practice, they’re not.*
+*It always takes longer than you expect, even when you take into account Hofstadter’s Law.*
 <div align="right">
-  <i>~ Yogi Berra</i>
+  <i>~ Hofstadter’s Law</i>
 </div>
