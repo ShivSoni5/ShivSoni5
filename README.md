@@ -26,7 +26,7 @@
 
 ---
 
-*It always takes longer than you expect, even when you take into account Hofstadter’s Law.*
+*Computers are like bikinis. They save people a lot of guesswork.*
 <div align="right">
-  <i>~ Hofstadter’s Law</i>
+  <i>~ Sam Ewing</i>
 </div>
