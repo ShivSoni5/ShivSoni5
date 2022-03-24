@@ -26,7 +26,7 @@
 
 ---
 
-*Computers are like bikinis. They save people a lot of guesswork.*
+*Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.*
 <div align="right">
-  <i>~ Sam Ewing</i>
+  <i>~ Rich Cook</i>
 </div>
