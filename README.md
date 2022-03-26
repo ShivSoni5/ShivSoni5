@@ -26,7 +26,7 @@
 
 ---
 
-*Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.*
+*There are two major products that come out of Berkeley: LSD and UNIX.  We don’t believe this to be a coincidence.*
 <div align="right">
-  <i>~ Rick Osborne</i>
+  <i>~ Jeremy S. Anderson</i>
 </div>
