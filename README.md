@@ -26,7 +26,7 @@
 
 ---
 
-*There are two major products that come out of Berkeley: LSD and UNIX.  We don’t believe this to be a coincidence.*
+*Some people, when confronted with a problem, think “I know, I’ll use regular expressions.” Now they have two problems.*
 <div align="right">
-  <i>~ Jeremy S. Anderson</i>
+  <i>~ Jamie Zawinski</i>
 </div>
