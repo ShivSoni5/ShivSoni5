@@ -26,7 +26,7 @@
 
 ---
 
-*Some people, when confronted with a problem, think “I know, I’ll use regular expressions.” Now they have two problems.*
+*XML is like violence – if it doesn’t solve your problems, you are not using enough of it.*
 <div align="right">
-  <i>~ Jamie Zawinski</i>
+  <i>~ Unknown</i>
 </div>
