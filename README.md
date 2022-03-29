@@ -26,7 +26,7 @@
 
 ---
 
-*XML is like violence – if it doesn’t solve your problems, you are not using enough of it.*
+*Saying that Java is good because it works on all platforms is like saying anal sex is good because it works on all genders.*
 <div align="right">
   <i>~ Unknown</i>
 </div>
