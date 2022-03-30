@@ -26,7 +26,7 @@
 
 ---
 
-*Saying that Java is good because it works on all platforms is like saying anal sex is good because it works on all genders.*
+*There are only two kinds of programming languages: those people always bitch about and those nobody uses.*
 <div align="right">
-  <i>~ Unknown</i>
+  <i>~ Bjarne Stroustrup</i>
 </div>
