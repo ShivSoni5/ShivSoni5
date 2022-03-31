@@ -26,7 +26,7 @@
 
 ---
 
-*There are only two kinds of programming languages: those people always bitch about and those nobody uses.*
+*I have always wished for my computer to be as easy to use as my telephone; my wish has come true because I can no longer figure out how to use my telephone.*
 <div align="right">
   <i>~ Bjarne Stroustrup</i>
 </div>
