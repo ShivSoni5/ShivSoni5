@@ -26,7 +26,7 @@
 
 ---
 
-*I have always wished for my computer to be as easy to use as my telephone; my wish has come true because I can no longer figure out how to use my telephone.*
+*The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.*
 <div align="right">
-  <i>~ Bjarne Stroustrup</i>
+  <i>~ Henry Petroski</i>
 </div>
