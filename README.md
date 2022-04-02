@@ -26,7 +26,7 @@
 
 ---
 
-*The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.*
+*Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.*
 <div align="right">
-  <i>~ Henry Petroski</i>
+  <i>~ Brian Kernighan</i>
 </div>
