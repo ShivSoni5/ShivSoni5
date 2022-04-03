@@ -26,7 +26,7 @@
 
 ---
 
-*Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.*
+*Documentation is like sex; when it&#39;s good, it&#39;s very, very good, and when it&#39;s bad, it&#39;s better than nothing.*
 <div align="right">
-  <i>~ Brian Kernighan</i>
+  <i>~ Dick Brandon</i>
 </div>
