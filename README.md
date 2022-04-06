@@ -26,7 +26,7 @@
 
 ---
 
-*Two things are infinite: the universe and human stupidity; and I’m not sure about the universe.*
+*Writing the first 90 percent of a computer program takes 90 percent of the time. The remaining ten percent also takes 90 percent of the time and the final touches also take 90 percent of the time.*
 <div align="right">
-  <i>~ Albert Einstein</i>
+  <i>~ N.J. Rubenking</i>
 </div>
