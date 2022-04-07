@@ -26,7 +26,7 @@
 
 ---
 
-*Writing the first 90 percent of a computer program takes 90 percent of the time. The remaining ten percent also takes 90 percent of the time and the final touches also take 90 percent of the time.*
+*In software, we rarely have meaningful requirements. Even if we do, the only measure of success that matters is whether our solution solves the customer’s shifting idea of what their problem is.*
 <div align="right">
-  <i>~ N.J. Rubenking</i>
+  <i>~ Jeff Atwood</i>
 </div>
