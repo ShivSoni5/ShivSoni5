@@ -26,7 +26,7 @@
 
 ---
 
-*Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.*
+*In software, we rarely have meaningful requirements. Even if we do, the only measure of success that matters is whether our solution solves the customer’s shifting idea of what their problem is.*
 <div align="right">
-  <i>~ Alan Kay</i>
+  <i>~ Jeff Atwood</i>
 </div>
