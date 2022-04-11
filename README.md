@@ -26,7 +26,7 @@
 
 ---
 
-*In software, we rarely have meaningful requirements. Even if we do, the only measure of success that matters is whether our solution solves the customer’s shifting idea of what their problem is.*
+*There are only two kinds of programming languages: those people always bitch about and those nobody uses.*
 <div align="right">
-  <i>~ Jeff Atwood</i>
+  <i>~ Bjarne Stroustrup</i>
 </div>
