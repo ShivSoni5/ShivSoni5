@@ -26,7 +26,7 @@
 
 ---
 
-*I’ve noticed lately that the paranoid fear of computers becoming intelligent and taking over the world has almost entirely disappeared from the common culture.  Near as I can tell, this coincides with the release of MS-DOS.*
+*There are two major products that come out of Berkeley: LSD and UNIX.  We don’t believe this to be a coincidence.*
 <div align="right">
-  <i>~ Larry DeLuca</i>
+  <i>~ Jeremy S. Anderson</i>
 </div>
