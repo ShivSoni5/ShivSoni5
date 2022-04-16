@@ -26,7 +26,7 @@
 
 ---
 
-*If Java had true garbage collection, most programs would delete themselves upon execution.*
+*Documentation is like sex; when it&#39;s good, it&#39;s very, very good, and when it&#39;s bad, it&#39;s better than nothing.*
 <div align="right">
-  <i>~ Robert Sewell</i>
+  <i>~ Dick Brandon</i>
 </div>
