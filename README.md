@@ -26,7 +26,7 @@
 
 ---
 
-*Documentation is like sex; when it&#39;s good, it&#39;s very, very good, and when it&#39;s bad, it&#39;s better than nothing.*
+*Some people, when confronted with a problem, think “I know, I’ll use regular expressions.” Now they have two problems.*
 <div align="right">
-  <i>~ Dick Brandon</i>
+  <i>~ Jamie Zawinski</i>
 </div>
