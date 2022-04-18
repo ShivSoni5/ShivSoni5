@@ -26,7 +26,7 @@
 
 ---
 
-*Some people, when confronted with a problem, think “I know, I’ll use regular expressions.” Now they have two problems.*
+*Computers are like bikinis. They save people a lot of guesswork.*
 <div align="right">
-  <i>~ Jamie Zawinski</i>
+  <i>~ Sam Ewing</i>
 </div>
