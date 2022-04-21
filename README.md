@@ -26,7 +26,7 @@
 
 ---
 
-*The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.*
+*If debugging is the process of removing software bugs, then programming must be the process of putting them in.*
 <div align="right">
-  <i>~ Henry Petroski</i>
+  <i>~ E. W. Dijkstra</i>
 </div>
