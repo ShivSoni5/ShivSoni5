@@ -26,7 +26,7 @@
 
 ---
 
-*If debugging is the process of removing software bugs, then programming must be the process of putting them in.*
+*Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.*
 <div align="right">
-  <i>~ E. W. Dijkstra</i>
+  <i>~ Alan Kay</i>
 </div>
