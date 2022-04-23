@@ -26,7 +26,7 @@
 
 ---
 
-*Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.*
+*Two things are infinite: the universe and human stupidity; and I’m not sure about the universe.*
 <div align="right">
-  <i>~ Alan Kay</i>
+  <i>~ Albert Einstein</i>
 </div>
