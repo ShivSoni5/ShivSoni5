@@ -26,7 +26,7 @@
 
 ---
 
-*Two things are infinite: the universe and human stupidity; and I’m not sure about the universe.*
+*XML is like violence – if it doesn’t solve your problems, you are not using enough of it.*
 <div align="right">
-  <i>~ Albert Einstein</i>
+  <i>~ Unknown</i>
 </div>
