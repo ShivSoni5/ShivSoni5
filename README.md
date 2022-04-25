@@ -26,7 +26,7 @@
 
 ---
 
-*XML is like violence – if it doesn’t solve your problems, you are not using enough of it.*
+*C++ : Where friends have access to your private members.*
 <div align="right">
-  <i>~ Unknown</i>
+  <i>~ Gavin Russell Baker</i>
 </div>
