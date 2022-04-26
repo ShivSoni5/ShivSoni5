@@ -26,7 +26,7 @@
 
 ---
 
-*C++ : Where friends have access to your private members.*
+*Linux is only free if your time has no value.*
 <div align="right">
-  <i>~ Gavin Russell Baker</i>
+  <i>~ Jamie Zawinski</i>
 </div>
