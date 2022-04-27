@@ -26,7 +26,7 @@
 
 ---
 
-*Linux is only free if your time has no value.*
+*If Java had true garbage collection, most programs would delete themselves upon execution.*
 <div align="right">
-  <i>~ Jamie Zawinski</i>
+  <i>~ Robert Sewell</i>
 </div>
