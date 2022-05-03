@@ -26,7 +26,7 @@
 
 ---
 
-*Einstein argued that there must be simplified explanations of nature, because God is not capricious or arbitrary. No such faith comforts the software engineer.*
+*On two occasions I have been asked, ‘Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?’ I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.”*
 <div align="right">
-  <i>~ Fred Brooks</i>
+  <i>~ Charles Babbage</i>
 </div>
