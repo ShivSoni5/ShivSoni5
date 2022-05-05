@@ -26,7 +26,7 @@
 
 ---
 
-*Programming is like sex: one mistake and you’re providing support for a lifetime.*
+*I love deadlines. I like the whooshing sound they make as they fly by.*
 <div align="right">
-  <i>~ Michael Sinz</i>
+  <i>~ Douglas Adams</i>
 </div>
