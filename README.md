@@ -26,7 +26,7 @@
 
 ---
 
-*I love deadlines. I like the whooshing sound they make as they fly by.*
+*XML is like violence – if it doesn’t solve your problems, you are not using enough of it.*
 <div align="right">
-  <i>~ Douglas Adams</i>
+  <i>~ Unknown</i>
 </div>
