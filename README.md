@@ -26,7 +26,7 @@
 
 ---
 
-*XML is like violence – if it doesn’t solve your problems, you are not using enough of it.*
+*Einstein argued that there must be simplified explanations of nature, because God is not capricious or arbitrary. No such faith comforts the software engineer.*
 <div align="right">
-  <i>~ Unknown</i>
+  <i>~ Fred Brooks</i>
 </div>
