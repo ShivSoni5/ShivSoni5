@@ -26,7 +26,7 @@
 
 ---
 
-*In theory, theory and practice are the same. In practice, they’re not.*
+*I love deadlines. I like the whooshing sound they make as they fly by.*
 <div align="right">
-  <i>~ Yogi Berra</i>
+  <i>~ Douglas Adams</i>
 </div>
