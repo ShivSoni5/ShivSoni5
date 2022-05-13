@@ -26,7 +26,7 @@
 
 ---
 
-*In C++ it’s harder to shoot yourself in the foot, but when you do, you blow off your whole leg.*
+*In software, we rarely have meaningful requirements. Even if we do, the only measure of success that matters is whether our solution solves the customer’s shifting idea of what their problem is.*
 <div align="right">
-  <i>~ Bjarne Stroustrup</i>
+  <i>~ Jeff Atwood</i>
 </div>
