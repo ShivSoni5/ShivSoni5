@@ -26,7 +26,7 @@
 
 ---
 
-*In software, we rarely have meaningful requirements. Even if we do, the only measure of success that matters is whether our solution solves the customer’s shifting idea of what their problem is.*
+*Perl – The only language that looks the same before and after RSA encryption.*
 <div align="right">
-  <i>~ Jeff Atwood</i>
+  <i>~ Keith Bostic</i>
 </div>
