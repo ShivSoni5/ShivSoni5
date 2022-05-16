@@ -26,7 +26,7 @@
 
 ---
 
-*There are only two hard things in Computer Science: cache invalidation, naming things and off-by-one errors.*
+*No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved.*
 <div align="right">
-  <i>~ Phil Karlton</i>
+  <i>~ Mark Gibbs</i>
 </div>
