@@ -26,7 +26,7 @@
 
 ---
 
-*In software, we rarely have meaningful requirements. Even if we do, the only measure of success that matters is whether our solution solves the customer’s shifting idea of what their problem is.*
+*Two things are infinite: the universe and human stupidity; and I’m not sure about the universe.*
 <div align="right">
-  <i>~ Jeff Atwood</i>
+  <i>~ Albert Einstein</i>
 </div>
