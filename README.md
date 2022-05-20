@@ -26,7 +26,7 @@
 
 ---
 
-*If debugging is the process of removing software bugs, then programming must be the process of putting them in.*
+*It always takes longer than you expect, even when you take into account Hofstadter’s Law.*
 <div align="right">
-  <i>~ E. W. Dijkstra</i>
+  <i>~ Hofstadter’s Law</i>
 </div>
