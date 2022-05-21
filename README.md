@@ -26,7 +26,7 @@
 
 ---
 
-*It always takes longer than you expect, even when you take into account Hofstadter’s Law.*
+*Linux is only free if your time has no value.*
 <div align="right">
-  <i>~ Hofstadter’s Law</i>
+  <i>~ Jamie Zawinski</i>
 </div>
