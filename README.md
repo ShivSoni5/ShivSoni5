@@ -26,7 +26,7 @@
 
 ---
 
-*Linux is only free if your time has no value.*
+*It is practically impossible to teach good programming style to students that have had prior exposure to BASIC. As potential programmers, they are mentally mutilated beyond hope of regeneration.*
 <div align="right">
-  <i>~ Jamie Zawinski</i>
+  <i>~ E. W. Dijkstra</i>
 </div>
