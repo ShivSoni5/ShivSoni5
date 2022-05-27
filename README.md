@@ -26,7 +26,7 @@
 
 ---
 
-*A computer lets you make more mistakes faster than any other invention in human history, with the possible exceptions of handguns and tequila.*
+*It always takes longer than you expect, even when you take into account Hofstadter’s Law.*
 <div align="right">
-  <i>~ Mitch Ratcliffe</i>
+  <i>~ Hofstadter’s Law</i>
 </div>
