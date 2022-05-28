@@ -26,7 +26,7 @@
 
 ---
 
-*It always takes longer than you expect, even when you take into account Hofstadter’s Law.*
+*XML is like violence – if it doesn’t solve your problems, you are not using enough of it.*
 <div align="right">
-  <i>~ Hofstadter’s Law</i>
+  <i>~ Unknown</i>
 </div>
