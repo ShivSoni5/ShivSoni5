@@ -26,7 +26,7 @@
 
 ---
 
-*XML is like violence – if it doesn’t solve your problems, you are not using enough of it.*
+*The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.*
 <div align="right">
-  <i>~ Unknown</i>
+  <i>~ Henry Petroski</i>
 </div>
