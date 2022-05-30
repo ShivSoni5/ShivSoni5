@@ -26,7 +26,7 @@
 
 ---
 
-*The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.*
+*We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil.*
 <div align="right">
-  <i>~ Henry Petroski</i>
+  <i>~ C. A. R. Hoare</i>
 </div>
