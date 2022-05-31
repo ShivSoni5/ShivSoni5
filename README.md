@@ -26,7 +26,7 @@
 
 ---
 
-*We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil.*
+*There are only two hard things in Computer Science: cache invalidation, naming things and off-by-one errors.*
 <div align="right">
-  <i>~ C. A. R. Hoare</i>
+  <i>~ Phil Karlton</i>
 </div>
