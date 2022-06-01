@@ -26,7 +26,7 @@
 
 ---
 
-*There are only two hard things in Computer Science: cache invalidation, naming things and off-by-one errors.*
+*On two occasions I have been asked, ‘Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?’ I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.”*
 <div align="right">
-  <i>~ Phil Karlton</i>
+  <i>~ Charles Babbage</i>
 </div>
