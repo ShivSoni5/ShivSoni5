@@ -26,7 +26,7 @@
 
 ---
 
-*On two occasions I have been asked, ‘Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?’ I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.”*
+*Computers are like bikinis. They save people a lot of guesswork.*
 <div align="right">
-  <i>~ Charles Babbage</i>
+  <i>~ Sam Ewing</i>
 </div>
