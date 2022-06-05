@@ -26,7 +26,7 @@
 
 ---
 
-*No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved.*
+*Writing the first 90 percent of a computer program takes 90 percent of the time. The remaining ten percent also takes 90 percent of the time and the final touches also take 90 percent of the time.*
 <div align="right">
-  <i>~ Mark Gibbs</i>
+  <i>~ N.J. Rubenking</i>
 </div>
