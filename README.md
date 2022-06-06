@@ -26,7 +26,7 @@
 
 ---
 
-*Writing the first 90 percent of a computer program takes 90 percent of the time. The remaining ten percent also takes 90 percent of the time and the final touches also take 90 percent of the time.*
+*It always takes longer than you expect, even when you take into account Hofstadter’s Law.*
 <div align="right">
-  <i>~ N.J. Rubenking</i>
+  <i>~ Hofstadter’s Law</i>
 </div>
