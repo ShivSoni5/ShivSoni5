@@ -26,7 +26,7 @@
 
 ---
 
-*It always takes longer than you expect, even when you take into account Hofstadter’s Law.*
+*Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.*
 <div align="right">
-  <i>~ Hofstadter’s Law</i>
+  <i>~ Brian Kernighan</i>
 </div>
