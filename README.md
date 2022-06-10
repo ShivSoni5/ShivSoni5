@@ -26,7 +26,7 @@
 
 ---
 
-*There are two ways of constructing a software design; one way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.*
+*Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.*
 <div align="right">
-  <i>~ C. A. R. Hoare</i>
+  <i>~ Brian Kernighan</i>
 </div>
