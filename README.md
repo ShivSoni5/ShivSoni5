@@ -26,7 +26,7 @@
 
 ---
 
-*Measuring programming progress by lines of code is like measuring aircraft building progress by weight.*
+*Writing the first 90 percent of a computer program takes 90 percent of the time. The remaining ten percent also takes 90 percent of the time and the final touches also take 90 percent of the time.*
 <div align="right">
-  <i>~ Bill Gates</i>
+  <i>~ N.J. Rubenking</i>
 </div>
