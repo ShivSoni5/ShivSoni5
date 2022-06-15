@@ -26,7 +26,7 @@
 
 ---
 
-*Writing the first 90 percent of a computer program takes 90 percent of the time. The remaining ten percent also takes 90 percent of the time and the final touches also take 90 percent of the time.*
+*Perl – The only language that looks the same before and after RSA encryption.*
 <div align="right">
-  <i>~ N.J. Rubenking</i>
+  <i>~ Keith Bostic</i>
 </div>
