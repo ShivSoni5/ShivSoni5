@@ -26,7 +26,7 @@
 
 ---
 
-*There are two major products that come out of Berkeley: LSD and UNIX.  We don’t believe this to be a coincidence.*
+*Saying that Java is good because it works on all platforms is like saying anal sex is good because it works on all genders.*
 <div align="right">
-  <i>~ Jeremy S. Anderson</i>
+  <i>~ Unknown</i>
 </div>
