@@ -26,7 +26,7 @@
 
 ---
 
-*Saying that Java is good because it works on all platforms is like saying anal sex is good because it works on all genders.*
+*C++ : Where friends have access to your private members.*
 <div align="right">
-  <i>~ Unknown</i>
+  <i>~ Gavin Russell Baker</i>
 </div>
