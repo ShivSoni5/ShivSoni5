@@ -26,7 +26,7 @@
 
 ---
 
-*C++ : Where friends have access to your private members.*
+*Einstein argued that there must be simplified explanations of nature, because God is not capricious or arbitrary. No such faith comforts the software engineer.*
 <div align="right">
-  <i>~ Gavin Russell Baker</i>
+  <i>~ Fred Brooks</i>
 </div>
