@@ -26,7 +26,7 @@
 
 ---
 
-*Einstein argued that there must be simplified explanations of nature, because God is not capricious or arbitrary. No such faith comforts the software engineer.*
+*I have always wished for my computer to be as easy to use as my telephone; my wish has come true because I can no longer figure out how to use my telephone.*
 <div align="right">
-  <i>~ Fred Brooks</i>
+  <i>~ Bjarne Stroustrup</i>
 </div>
