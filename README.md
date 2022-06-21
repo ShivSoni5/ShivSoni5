@@ -26,7 +26,7 @@
 
 ---
 
-*I have always wished for my computer to be as easy to use as my telephone; my wish has come true because I can no longer figure out how to use my telephone.*
+*I don’t care if it works on your machine! We are not shipping your machine!*
 <div align="right">
-  <i>~ Bjarne Stroustrup</i>
+  <i>~ Ovidiu Platon</i>
 </div>
