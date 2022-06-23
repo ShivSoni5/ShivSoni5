@@ -26,7 +26,7 @@
 
 ---
 
-*On two occasions I have been asked, ‘Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?’ I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.”*
+*There are two major products that come out of Berkeley: LSD and UNIX.  We don’t believe this to be a coincidence.*
 <div align="right">
-  <i>~ Charles Babbage</i>
+  <i>~ Jeremy S. Anderson</i>
 </div>
