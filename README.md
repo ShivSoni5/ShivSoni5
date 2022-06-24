@@ -26,7 +26,7 @@
 
 ---
 
-*There are two major products that come out of Berkeley: LSD and UNIX.  We don’t believe this to be a coincidence.*
+*It is practically impossible to teach good programming style to students that have had prior exposure to BASIC. As potential programmers, they are mentally mutilated beyond hope of regeneration.*
 <div align="right">
-  <i>~ Jeremy S. Anderson</i>
+  <i>~ E. W. Dijkstra</i>
 </div>
