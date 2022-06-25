@@ -26,7 +26,7 @@
 
 ---
 
-*It is practically impossible to teach good programming style to students that have had prior exposure to BASIC. As potential programmers, they are mentally mutilated beyond hope of regeneration.*
+*Measuring programming progress by lines of code is like measuring aircraft building progress by weight.*
 <div align="right">
-  <i>~ E. W. Dijkstra</i>
+  <i>~ Bill Gates</i>
 </div>
