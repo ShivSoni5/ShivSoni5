@@ -26,7 +26,7 @@
 
 ---
 
-*Measuring programming progress by lines of code is like measuring aircraft building progress by weight.*
+*There are two ways of constructing a software design; one way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.*
 <div align="right">
-  <i>~ Bill Gates</i>
+  <i>~ C. A. R. Hoare</i>
 </div>
