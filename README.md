@@ -26,7 +26,7 @@
 
 ---
 
-*The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.*
+*PHP is a minor evil perpetrated and created by incompetent amateurs, whereas Perl is a great and insidious evil, perpetrated by skilled but perverted professionals.*
 <div align="right">
-  <i>~ Henry Petroski</i>
+  <i>~ Jon Ribbens</i>
 </div>
