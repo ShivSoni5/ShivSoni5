@@ -26,7 +26,7 @@
 
 ---
 
-*There are two major products that come out of Berkeley: LSD and UNIX.  We don’t believe this to be a coincidence.*
+*Documentation is like sex; when it&#39;s good, it&#39;s very, very good, and when it&#39;s bad, it&#39;s better than nothing.*
 <div align="right">
-  <i>~ Jeremy S. Anderson</i>
+  <i>~ Dick Brandon</i>
 </div>
