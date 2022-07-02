@@ -26,7 +26,7 @@
 
 ---
 
-*Documentation is like sex; when it&#39;s good, it&#39;s very, very good, and when it&#39;s bad, it&#39;s better than nothing.*
+*A computer lets you make more mistakes faster than any other invention in human history, with the possible exceptions of handguns and tequila.*
 <div align="right">
-  <i>~ Dick Brandon</i>
+  <i>~ Mitch Ratcliffe</i>
 </div>
