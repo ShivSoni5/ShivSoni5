@@ -26,7 +26,7 @@
 
 ---
 
-*A computer lets you make more mistakes faster than any other invention in human history, with the possible exceptions of handguns and tequila.*
+*I love deadlines. I like the whooshing sound they make as they fly by.*
 <div align="right">
-  <i>~ Mitch Ratcliffe</i>
+  <i>~ Douglas Adams</i>
 </div>
