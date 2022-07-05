@@ -26,7 +26,7 @@
 
 ---
 
-*There are two ways of constructing a software design; one way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.*
+*It is practically impossible to teach good programming style to students that have had prior exposure to BASIC. As potential programmers, they are mentally mutilated beyond hope of regeneration.*
 <div align="right">
-  <i>~ C. A. R. Hoare</i>
+  <i>~ E. W. Dijkstra</i>
 </div>
