@@ -26,7 +26,7 @@
 
 ---
 
-*We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil.*
+*Saying that Java is good because it works on all platforms is like saying anal sex is good because it works on all genders.*
 <div align="right">
-  <i>~ C. A. R. Hoare</i>
+  <i>~ Unknown</i>
 </div>
