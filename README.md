@@ -26,7 +26,7 @@
 
 ---
 
-*Saying that Java is good because it works on all platforms is like saying anal sex is good because it works on all genders.*
+*The difference between theory and practice is that in theory, there is no difference between theory and practice.*
 <div align="right">
-  <i>~ Unknown</i>
+  <i>~ Richard Moore</i>
 </div>
