@@ -26,7 +26,7 @@
 
 ---
 
-*The difference between theory and practice is that in theory, there is no difference between theory and practice.*
+*Beware of bugs in the above code; I have only proved it correct, not tried it. *
 <div align="right">
-  <i>~ Richard Moore</i>
+  <i>~ Donald Knuth</i>
 </div>
