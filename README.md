@@ -26,7 +26,7 @@
 
 ---
 
-*I have always wished for my computer to be as easy to use as my telephone; my wish has come true because I can no longer figure out how to use my telephone.*
+*C++ : Where friends have access to your private members.*
 <div align="right">
-  <i>~ Bjarne Stroustrup</i>
+  <i>~ Gavin Russell Baker</i>
 </div>
