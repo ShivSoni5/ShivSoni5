@@ -26,7 +26,7 @@
 
 ---
 
-*C++ : Where friends have access to your private members.*
+*In C++ it’s harder to shoot yourself in the foot, but when you do, you blow off your whole leg.*
 <div align="right">
-  <i>~ Gavin Russell Baker</i>
+  <i>~ Bjarne Stroustrup</i>
 </div>
