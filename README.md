@@ -26,7 +26,7 @@
 
 ---
 
-*In C++ it’s harder to shoot yourself in the foot, but when you do, you blow off your whole leg.*
+*There are only two hard things in Computer Science: cache invalidation, naming things and off-by-one errors.*
 <div align="right">
-  <i>~ Bjarne Stroustrup</i>
+  <i>~ Phil Karlton</i>
 </div>
