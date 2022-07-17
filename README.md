@@ -26,7 +26,7 @@
 
 ---
 
-*There are only two hard things in Computer Science: cache invalidation, naming things and off-by-one errors.*
+*PHP is a minor evil perpetrated and created by incompetent amateurs, whereas Perl is a great and insidious evil, perpetrated by skilled but perverted professionals.*
 <div align="right">
-  <i>~ Phil Karlton</i>
+  <i>~ Jon Ribbens</i>
 </div>
