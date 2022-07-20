@@ -26,7 +26,7 @@
 
 ---
 
-*PHP is a minor evil perpetrated and created by incompetent amateurs, whereas Perl is a great and insidious evil, perpetrated by skilled but perverted professionals.*
+*Computers are like bikinis. They save people a lot of guesswork.*
 <div align="right">
-  <i>~ Jon Ribbens</i>
+  <i>~ Sam Ewing</i>
 </div>
