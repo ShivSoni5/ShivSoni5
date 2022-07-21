@@ -26,7 +26,7 @@
 
 ---
 
-*Computers are like bikinis. They save people a lot of guesswork.*
+*QA Engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard. Orders -1 beers. Orders a sfdeljknesv.*
 <div align="right">
-  <i>~ Sam Ewing</i>
+  <i>~ Bill Sempf</i>
 </div>
