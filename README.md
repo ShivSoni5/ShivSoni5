@@ -26,7 +26,7 @@
 
 ---
 
-*QA Engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard. Orders -1 beers. Orders a sfdeljknesv.*
+*You should name a variable using the same care with which you name a first-born child.*
 <div align="right">
-  <i>~ Bill Sempf</i>
+  <i>~ James O. Coplien</i>
 </div>
