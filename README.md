@@ -26,7 +26,7 @@
 
 ---
 
-*On two occasions I have been asked, ‘Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?’ I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.”*
+*I’ve noticed lately that the paranoid fear of computers becoming intelligent and taking over the world has almost entirely disappeared from the common culture.  Near as I can tell, this coincides with the release of MS-DOS.*
 <div align="right">
-  <i>~ Charles Babbage</i>
+  <i>~ Larry DeLuca</i>
 </div>
