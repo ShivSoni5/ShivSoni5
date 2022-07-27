@@ -26,7 +26,7 @@
 
 ---
 
-*I’ve noticed lately that the paranoid fear of computers becoming intelligent and taking over the world has almost entirely disappeared from the common culture.  Near as I can tell, this coincides with the release of MS-DOS.*
+*There are only two kinds of programming languages: those people always bitch about and those nobody uses.*
 <div align="right">
-  <i>~ Larry DeLuca</i>
+  <i>~ Bjarne Stroustrup</i>
 </div>
