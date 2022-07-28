@@ -26,7 +26,7 @@
 
 ---
 
-*There are only two kinds of programming languages: those people always bitch about and those nobody uses.*
+*Beware of bugs in the above code; I have only proved it correct, not tried it. *
 <div align="right">
-  <i>~ Bjarne Stroustrup</i>
+  <i>~ Donald Knuth</i>
 </div>
