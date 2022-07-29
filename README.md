@@ -26,7 +26,7 @@
 
 ---
 
-*Beware of bugs in the above code; I have only proved it correct, not tried it. *
+*If Java had true garbage collection, most programs would delete themselves upon execution.*
 <div align="right">
-  <i>~ Donald Knuth</i>
+  <i>~ Robert Sewell</i>
 </div>
