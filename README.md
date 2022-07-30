@@ -26,7 +26,7 @@
 
 ---
 
-*If Java had true garbage collection, most programs would delete themselves upon execution.*
+*I have always wished for my computer to be as easy to use as my telephone; my wish has come true because I can no longer figure out how to use my telephone.*
 <div align="right">
-  <i>~ Robert Sewell</i>
+  <i>~ Bjarne Stroustrup</i>
 </div>
