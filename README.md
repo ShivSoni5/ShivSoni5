@@ -26,7 +26,7 @@
 
 ---
 
-*I have always wished for my computer to be as easy to use as my telephone; my wish has come true because I can no longer figure out how to use my telephone.*
+*You should name a variable using the same care with which you name a first-born child.*
 <div align="right">
-  <i>~ Bjarne Stroustrup</i>
+  <i>~ James O. Coplien</i>
 </div>
