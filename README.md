@@ -26,7 +26,7 @@
 
 ---
 
-*You should name a variable using the same care with which you name a first-born child.*
+*The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.*
 <div align="right">
-  <i>~ James O. Coplien</i>
+  <i>~ Henry Petroski</i>
 </div>
