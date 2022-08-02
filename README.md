@@ -26,7 +26,7 @@
 
 ---
 
-*The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.*
+*On two occasions I have been asked, ‘Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?’ I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.”*
 <div align="right">
-  <i>~ Henry Petroski</i>
+  <i>~ Charles Babbage</i>
 </div>
