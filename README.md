@@ -26,7 +26,7 @@
 
 ---
 
-*The difference between theory and practice is that in theory, there is no difference between theory and practice.*
+*I have always wished for my computer to be as easy to use as my telephone; my wish has come true because I can no longer figure out how to use my telephone.*
 <div align="right">
-  <i>~ Richard Moore</i>
+  <i>~ Bjarne Stroustrup</i>
 </div>
