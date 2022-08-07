@@ -26,7 +26,7 @@
 
 ---
 
-*I have always wished for my computer to be as easy to use as my telephone; my wish has come true because I can no longer figure out how to use my telephone.*
+*On two occasions I have been asked, ‘Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?’ I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.”*
 <div align="right">
-  <i>~ Bjarne Stroustrup</i>
+  <i>~ Charles Babbage</i>
 </div>
