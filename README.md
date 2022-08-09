@@ -26,7 +26,7 @@
 
 ---
 
-*I love deadlines. I like the whooshing sound they make as they fly by.*
+*There are two major products that come out of Berkeley: LSD and UNIX.  We don’t believe this to be a coincidence.*
 <div align="right">
-  <i>~ Douglas Adams</i>
+  <i>~ Jeremy S. Anderson</i>
 </div>
