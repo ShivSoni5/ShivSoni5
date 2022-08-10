@@ -26,7 +26,7 @@
 
 ---
 
-*There are two major products that come out of Berkeley: LSD and UNIX.  We don’t believe this to be a coincidence.*
+*XML is like violence – if it doesn’t solve your problems, you are not using enough of it.*
 <div align="right">
-  <i>~ Jeremy S. Anderson</i>
+  <i>~ Unknown</i>
 </div>
