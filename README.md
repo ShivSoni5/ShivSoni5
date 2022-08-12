@@ -26,7 +26,7 @@
 
 ---
 
-*The difference between theory and practice is that in theory, there is no difference between theory and practice.*
+*It is practically impossible to teach good programming style to students that have had prior exposure to BASIC. As potential programmers, they are mentally mutilated beyond hope of regeneration.*
 <div align="right">
-  <i>~ Richard Moore</i>
+  <i>~ E. W. Dijkstra</i>
 </div>
