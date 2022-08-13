@@ -26,7 +26,7 @@
 
 ---
 
-*It is practically impossible to teach good programming style to students that have had prior exposure to BASIC. As potential programmers, they are mentally mutilated beyond hope of regeneration.*
+*In theory, theory and practice are the same. In practice, they’re not.*
 <div align="right">
-  <i>~ E. W. Dijkstra</i>
+  <i>~ Yogi Berra</i>
 </div>
