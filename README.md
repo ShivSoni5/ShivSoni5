@@ -26,7 +26,7 @@
 
 ---
 
-*In theory, theory and practice are the same. In practice, they’re not.*
+*Einstein argued that there must be simplified explanations of nature, because God is not capricious or arbitrary. No such faith comforts the software engineer.*
 <div align="right">
-  <i>~ Yogi Berra</i>
+  <i>~ Fred Brooks</i>
 </div>
