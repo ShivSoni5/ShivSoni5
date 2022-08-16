@@ -26,7 +26,7 @@
 
 ---
 
-*In theory, theory and practice are the same. In practice, they’re not.*
+*I don’t care if it works on your machine! We are not shipping your machine!*
 <div align="right">
-  <i>~ Yogi Berra</i>
+  <i>~ Ovidiu Platon</i>
 </div>
