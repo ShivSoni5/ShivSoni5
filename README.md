@@ -26,7 +26,7 @@
 
 ---
 
-*I don’t care if it works on your machine! We are not shipping your machine!*
+*Perl – The only language that looks the same before and after RSA encryption.*
 <div align="right">
-  <i>~ Ovidiu Platon</i>
+  <i>~ Keith Bostic</i>
 </div>
