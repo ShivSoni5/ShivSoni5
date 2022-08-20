@@ -26,7 +26,7 @@
 
 ---
 
-*The difference between theory and practice is that in theory, there is no difference between theory and practice.*
+*I’ve noticed lately that the paranoid fear of computers becoming intelligent and taking over the world has almost entirely disappeared from the common culture.  Near as I can tell, this coincides with the release of MS-DOS.*
 <div align="right">
-  <i>~ Richard Moore</i>
+  <i>~ Larry DeLuca</i>
 </div>
