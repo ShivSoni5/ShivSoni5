@@ -26,7 +26,7 @@
 
 ---
 
-*I’ve noticed lately that the paranoid fear of computers becoming intelligent and taking over the world has almost entirely disappeared from the common culture.  Near as I can tell, this coincides with the release of MS-DOS.*
+*I don’t care if it works on your machine! We are not shipping your machine!*
 <div align="right">
-  <i>~ Larry DeLuca</i>
+  <i>~ Ovidiu Platon</i>
 </div>
