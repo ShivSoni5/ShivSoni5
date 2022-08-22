@@ -26,7 +26,7 @@
 
 ---
 
-*I don’t care if it works on your machine! We are not shipping your machine!*
+*The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.*
 <div align="right">
-  <i>~ Ovidiu Platon</i>
+  <i>~ Henry Petroski</i>
 </div>
