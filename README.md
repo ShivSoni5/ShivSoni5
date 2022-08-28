@@ -26,7 +26,7 @@
 
 ---
 
-*It always takes longer than you expect, even when you take into account Hofstadter’s Law.*
+*QA Engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard. Orders -1 beers. Orders a sfdeljknesv.*
 <div align="right">
-  <i>~ Hofstadter’s Law</i>
+  <i>~ Bill Sempf</i>
 </div>
