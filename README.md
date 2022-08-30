@@ -26,7 +26,7 @@
 
 ---
 
-*Two things are infinite: the universe and human stupidity; and I’m not sure about the universe.*
+*There are only two kinds of programming languages: those people always bitch about and those nobody uses.*
 <div align="right">
-  <i>~ Albert Einstein</i>
+  <i>~ Bjarne Stroustrup</i>
 </div>
