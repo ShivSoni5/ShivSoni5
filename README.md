@@ -26,7 +26,7 @@
 
 ---
 
-*There are only two kinds of programming languages: those people always bitch about and those nobody uses.*
+*Einstein argued that there must be simplified explanations of nature, because God is not capricious or arbitrary. No such faith comforts the software engineer.*
 <div align="right">
-  <i>~ Bjarne Stroustrup</i>
+  <i>~ Fred Brooks</i>
 </div>
