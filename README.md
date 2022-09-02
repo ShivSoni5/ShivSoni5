@@ -26,7 +26,7 @@
 
 ---
 
-*In software, we rarely have meaningful requirements. Even if we do, the only measure of success that matters is whether our solution solves the customer’s shifting idea of what their problem is.*
+*C++ : Where friends have access to your private members.*
 <div align="right">
-  <i>~ Jeff Atwood</i>
+  <i>~ Gavin Russell Baker</i>
 </div>
