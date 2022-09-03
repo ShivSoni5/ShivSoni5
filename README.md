@@ -26,7 +26,7 @@
 
 ---
 
-*C++ : Where friends have access to your private members.*
+*Measuring programming progress by lines of code is like measuring aircraft building progress by weight.*
 <div align="right">
-  <i>~ Gavin Russell Baker</i>
+  <i>~ Bill Gates</i>
 </div>
