@@ -26,7 +26,7 @@
 
 ---
 
-*Measuring programming progress by lines of code is like measuring aircraft building progress by weight.*
+*Einstein argued that there must be simplified explanations of nature, because God is not capricious or arbitrary. No such faith comforts the software engineer.*
 <div align="right">
-  <i>~ Bill Gates</i>
+  <i>~ Fred Brooks</i>
 </div>
