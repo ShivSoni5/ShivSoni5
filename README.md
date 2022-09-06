@@ -26,7 +26,7 @@
 
 ---
 
-*There are two ways of constructing a software design; one way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.*
+*PHP is a minor evil perpetrated and created by incompetent amateurs, whereas Perl is a great and insidious evil, perpetrated by skilled but perverted professionals.*
 <div align="right">
-  <i>~ C. A. R. Hoare</i>
+  <i>~ Jon Ribbens</i>
 </div>
