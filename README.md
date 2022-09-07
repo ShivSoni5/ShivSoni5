@@ -26,7 +26,7 @@
 
 ---
 
-*PHP is a minor evil perpetrated and created by incompetent amateurs, whereas Perl is a great and insidious evil, perpetrated by skilled but perverted professionals.*
+*I’ve noticed lately that the paranoid fear of computers becoming intelligent and taking over the world has almost entirely disappeared from the common culture.  Near as I can tell, this coincides with the release of MS-DOS.*
 <div align="right">
-  <i>~ Jon Ribbens</i>
+  <i>~ Larry DeLuca</i>
 </div>
