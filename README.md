@@ -26,7 +26,7 @@
 
 ---
 
-*Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.*
+*Perl – The only language that looks the same before and after RSA encryption.*
 <div align="right">
-  <i>~ Brian Kernighan</i>
+  <i>~ Keith Bostic</i>
 </div>
