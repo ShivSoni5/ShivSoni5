@@ -26,7 +26,7 @@
 
 ---
 
-*Perl – The only language that looks the same before and after RSA encryption.*
+*We know about as much about software quality problems as they knew about the Black Plague in the 1600s. We’ve seen the victims’ agonies and helped burn the corpses. We don’t know what causes it; we don’t really know if there is only one disease. We just suffer — and keep pouring our sewage into our water supply.*
 <div align="right">
-  <i>~ Keith Bostic</i>
+  <i>~ Tom Van Vleck</i>
 </div>
