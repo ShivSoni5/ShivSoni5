@@ -26,7 +26,7 @@
 
 ---
 
-*We know about as much about software quality problems as they knew about the Black Plague in the 1600s. We’ve seen the victims’ agonies and helped burn the corpses. We don’t know what causes it; we don’t really know if there is only one disease. We just suffer — and keep pouring our sewage into our water supply.*
+*C++ : Where friends have access to your private members.*
 <div align="right">
-  <i>~ Tom Van Vleck</i>
+  <i>~ Gavin Russell Baker</i>
 </div>
