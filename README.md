@@ -26,7 +26,7 @@
 
 ---
 
-*If Java had true garbage collection, most programs would delete themselves upon execution.*
+*There are two major products that come out of Berkeley: LSD and UNIX.  We don’t believe this to be a coincidence.*
 <div align="right">
-  <i>~ Robert Sewell</i>
+  <i>~ Jeremy S. Anderson</i>
 </div>
