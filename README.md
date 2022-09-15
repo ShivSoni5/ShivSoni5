@@ -26,7 +26,7 @@
 
 ---
 
-*There are two major products that come out of Berkeley: LSD and UNIX.  We don’t believe this to be a coincidence.*
+*Measuring programming progress by lines of code is like measuring aircraft building progress by weight.*
 <div align="right">
-  <i>~ Jeremy S. Anderson</i>
+  <i>~ Bill Gates</i>
 </div>
