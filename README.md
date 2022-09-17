@@ -26,7 +26,7 @@
 
 ---
 
-*Computers are like bikinis. They save people a lot of guesswork.*
+*I don’t care if it works on your machine! We are not shipping your machine!*
 <div align="right">
-  <i>~ Sam Ewing</i>
+  <i>~ Ovidiu Platon</i>
 </div>
