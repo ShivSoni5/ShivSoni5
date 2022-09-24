@@ -26,7 +26,7 @@
 
 ---
 
-*In C++ it’s harder to shoot yourself in the foot, but when you do, you blow off your whole leg.*
+*XML is like violence – if it doesn’t solve your problems, you are not using enough of it.*
 <div align="right">
-  <i>~ Bjarne Stroustrup</i>
+  <i>~ Unknown</i>
 </div>
