@@ -26,7 +26,7 @@
 
 ---
 
-*XML is like violence – if it doesn’t solve your problems, you are not using enough of it.*
+*The difference between theory and practice is that in theory, there is no difference between theory and practice.*
 <div align="right">
-  <i>~ Unknown</i>
+  <i>~ Richard Moore</i>
 </div>
