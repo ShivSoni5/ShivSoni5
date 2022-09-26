@@ -26,7 +26,7 @@
 
 ---
 
-*The difference between theory and practice is that in theory, there is no difference between theory and practice.*
+*Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.*
 <div align="right">
-  <i>~ Richard Moore</i>
+  <i>~ Alan Kay</i>
 </div>
