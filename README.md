@@ -26,7 +26,7 @@
 
 ---
 
-*Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.*
+*Programming is like sex: one mistake and you’re providing support for a lifetime.*
 <div align="right">
-  <i>~ Alan Kay</i>
+  <i>~ Michael Sinz</i>
 </div>
