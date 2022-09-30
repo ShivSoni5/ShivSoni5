@@ -26,7 +26,7 @@
 
 ---
 
-*Walking on water and developing software from a specification are easy if both are frozen.*
+*Writing the first 90 percent of a computer program takes 90 percent of the time. The remaining ten percent also takes 90 percent of the time and the final touches also take 90 percent of the time.*
 <div align="right">
-  <i>~ Edward V Berard</i>
+  <i>~ N.J. Rubenking</i>
 </div>
