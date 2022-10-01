@@ -26,7 +26,7 @@
 
 ---
 
-*Writing the first 90 percent of a computer program takes 90 percent of the time. The remaining ten percent also takes 90 percent of the time and the final touches also take 90 percent of the time.*
+*It is practically impossible to teach good programming style to students that have had prior exposure to BASIC. As potential programmers, they are mentally mutilated beyond hope of regeneration.*
 <div align="right">
-  <i>~ N.J. Rubenking</i>
+  <i>~ E. W. Dijkstra</i>
 </div>
