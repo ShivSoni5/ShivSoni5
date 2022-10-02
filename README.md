@@ -26,7 +26,7 @@
 
 ---
 
-*It is practically impossible to teach good programming style to students that have had prior exposure to BASIC. As potential programmers, they are mentally mutilated beyond hope of regeneration.*
+*Documentation is like sex; when it&#39;s good, it&#39;s very, very good, and when it&#39;s bad, it&#39;s better than nothing.*
 <div align="right">
-  <i>~ E. W. Dijkstra</i>
+  <i>~ Dick Brandon</i>
 </div>
