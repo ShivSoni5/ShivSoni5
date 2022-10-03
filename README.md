@@ -26,7 +26,7 @@
 
 ---
 
-*Documentation is like sex; when it&#39;s good, it&#39;s very, very good, and when it&#39;s bad, it&#39;s better than nothing.*
+*There are only two kinds of programming languages: those people always bitch about and those nobody uses.*
 <div align="right">
-  <i>~ Dick Brandon</i>
+  <i>~ Bjarne Stroustrup</i>
 </div>
