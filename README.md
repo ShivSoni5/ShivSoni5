@@ -26,7 +26,7 @@
 
 ---
 
-*There are only two kinds of programming languages: those people always bitch about and those nobody uses.*
+*Writing the first 90 percent of a computer program takes 90 percent of the time. The remaining ten percent also takes 90 percent of the time and the final touches also take 90 percent of the time.*
 <div align="right">
-  <i>~ Bjarne Stroustrup</i>
+  <i>~ N.J. Rubenking</i>
 </div>
