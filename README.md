@@ -26,7 +26,7 @@
 
 ---
 
-*Writing the first 90 percent of a computer program takes 90 percent of the time. The remaining ten percent also takes 90 percent of the time and the final touches also take 90 percent of the time.*
+*QA Engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard. Orders -1 beers. Orders a sfdeljknesv.*
 <div align="right">
-  <i>~ N.J. Rubenking</i>
+  <i>~ Bill Sempf</i>
 </div>
