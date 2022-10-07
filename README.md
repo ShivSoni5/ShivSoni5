@@ -26,7 +26,7 @@
 
 ---
 
-*It always takes longer than you expect, even when you take into account Hofstadter’s Law.*
+*In software, we rarely have meaningful requirements. Even if we do, the only measure of success that matters is whether our solution solves the customer’s shifting idea of what their problem is.*
 <div align="right">
-  <i>~ Hofstadter’s Law</i>
+  <i>~ Jeff Atwood</i>
 </div>
