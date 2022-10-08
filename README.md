@@ -26,7 +26,7 @@
 
 ---
 
-*In software, we rarely have meaningful requirements. Even if we do, the only measure of success that matters is whether our solution solves the customer’s shifting idea of what their problem is.*
+*Einstein argued that there must be simplified explanations of nature, because God is not capricious or arbitrary. No such faith comforts the software engineer.*
 <div align="right">
-  <i>~ Jeff Atwood</i>
+  <i>~ Fred Brooks</i>
 </div>
