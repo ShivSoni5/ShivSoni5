@@ -26,7 +26,7 @@
 
 ---
 
-*In software, we rarely have meaningful requirements. Even if we do, the only measure of success that matters is whether our solution solves the customer’s shifting idea of what their problem is.*
+*Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.*
 <div align="right">
-  <i>~ Jeff Atwood</i>
+  <i>~ Brian Kernighan</i>
 </div>
