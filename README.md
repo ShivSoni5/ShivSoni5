@@ -26,7 +26,7 @@
 
 ---
 
-*It is practically impossible to teach good programming style to students that have had prior exposure to BASIC. As potential programmers, they are mentally mutilated beyond hope of regeneration.*
+*I’ve noticed lately that the paranoid fear of computers becoming intelligent and taking over the world has almost entirely disappeared from the common culture.  Near as I can tell, this coincides with the release of MS-DOS.*
 <div align="right">
-  <i>~ E. W. Dijkstra</i>
+  <i>~ Larry DeLuca</i>
 </div>
