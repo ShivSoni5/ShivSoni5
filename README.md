@@ -26,7 +26,7 @@
 
 ---
 
-*On two occasions I have been asked, ‘Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?’ I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.”*
+*You should name a variable using the same care with which you name a first-born child.*
 <div align="right">
-  <i>~ Charles Babbage</i>
+  <i>~ James O. Coplien</i>
 </div>
