@@ -26,7 +26,7 @@
 
 ---
 
-*You should name a variable using the same care with which you name a first-born child.*
+*Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.*
 <div align="right">
-  <i>~ James O. Coplien</i>
+  <i>~ Brian Kernighan</i>
 </div>
