@@ -26,7 +26,7 @@
 
 ---
 
-*Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.*
+*Two things are infinite: the universe and human stupidity; and I’m not sure about the universe.*
 <div align="right">
-  <i>~ Brian Kernighan</i>
+  <i>~ Albert Einstein</i>
 </div>
