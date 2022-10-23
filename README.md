@@ -26,7 +26,7 @@
 
 ---
 
-*Two things are infinite: the universe and human stupidity; and I’m not sure about the universe.*
+*In theory, theory and practice are the same. In practice, they’re not.*
 <div align="right">
-  <i>~ Albert Einstein</i>
+  <i>~ Yogi Berra</i>
 </div>
