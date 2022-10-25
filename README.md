@@ -26,7 +26,7 @@
 
 ---
 
-*If debugging is the process of removing software bugs, then programming must be the process of putting them in.*
+*Perl – The only language that looks the same before and after RSA encryption.*
 <div align="right">
-  <i>~ E. W. Dijkstra</i>
+  <i>~ Keith Bostic</i>
 </div>
