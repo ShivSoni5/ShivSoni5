@@ -26,7 +26,7 @@
 
 ---
 
-*There are only two hard things in Computer Science: cache invalidation, naming things and off-by-one errors.*
+*In software, we rarely have meaningful requirements. Even if we do, the only measure of success that matters is whether our solution solves the customer’s shifting idea of what their problem is.*
 <div align="right">
-  <i>~ Phil Karlton</i>
+  <i>~ Jeff Atwood</i>
 </div>
