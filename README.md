@@ -26,7 +26,7 @@
 
 ---
 
-*Linux is only free if your time has no value.*
+*XML is like violence – if it doesn’t solve your problems, you are not using enough of it.*
 <div align="right">
-  <i>~ Jamie Zawinski</i>
+  <i>~ Unknown</i>
 </div>
