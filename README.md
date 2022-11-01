@@ -26,7 +26,7 @@
 
 ---
 
-*XML is like violence – if it doesn’t solve your problems, you are not using enough of it.*
+*Computers are like bikinis. They save people a lot of guesswork.*
 <div align="right">
-  <i>~ Unknown</i>
+  <i>~ Sam Ewing</i>
 </div>
