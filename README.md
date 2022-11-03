@@ -26,7 +26,7 @@
 
 ---
 
-*I don’t care if it works on your machine! We are not shipping your machine!*
+*In C++ it’s harder to shoot yourself in the foot, but when you do, you blow off your whole leg.*
 <div align="right">
-  <i>~ Ovidiu Platon</i>
+  <i>~ Bjarne Stroustrup</i>
 </div>
