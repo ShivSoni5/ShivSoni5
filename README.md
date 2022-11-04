@@ -26,7 +26,7 @@
 
 ---
 
-*In C++ it’s harder to shoot yourself in the foot, but when you do, you blow off your whole leg.*
+*PHP is a minor evil perpetrated and created by incompetent amateurs, whereas Perl is a great and insidious evil, perpetrated by skilled but perverted professionals.*
 <div align="right">
-  <i>~ Bjarne Stroustrup</i>
+  <i>~ Jon Ribbens</i>
 </div>
