@@ -26,7 +26,7 @@
 
 ---
 
-*In theory, theory and practice are the same. In practice, they’re not.*
+*PHP is a minor evil perpetrated and created by incompetent amateurs, whereas Perl is a great and insidious evil, perpetrated by skilled but perverted professionals.*
 <div align="right">
-  <i>~ Yogi Berra</i>
+  <i>~ Jon Ribbens</i>
 </div>
