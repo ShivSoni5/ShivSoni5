@@ -26,7 +26,7 @@
 
 ---
 
-*PHP is a minor evil perpetrated and created by incompetent amateurs, whereas Perl is a great and insidious evil, perpetrated by skilled but perverted professionals.*
+*Einstein argued that there must be simplified explanations of nature, because God is not capricious or arbitrary. No such faith comforts the software engineer.*
 <div align="right">
-  <i>~ Jon Ribbens</i>
+  <i>~ Fred Brooks</i>
 </div>
