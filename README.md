@@ -26,7 +26,7 @@
 
 ---
 
-*Einstein argued that there must be simplified explanations of nature, because God is not capricious or arbitrary. No such faith comforts the software engineer.*
+*I don’t care if it works on your machine! We are not shipping your machine!*
 <div align="right">
-  <i>~ Fred Brooks</i>
+  <i>~ Ovidiu Platon</i>
 </div>
