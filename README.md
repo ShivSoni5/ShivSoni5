@@ -26,7 +26,7 @@
 
 ---
 
-*I don’t care if it works on your machine! We are not shipping your machine!*
+*If Java had true garbage collection, most programs would delete themselves upon execution.*
 <div align="right">
-  <i>~ Ovidiu Platon</i>
+  <i>~ Robert Sewell</i>
 </div>
