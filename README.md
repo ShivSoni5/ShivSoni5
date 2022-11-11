@@ -26,7 +26,7 @@
 
 ---
 
-*If Java had true garbage collection, most programs would delete themselves upon execution.*
+*Perl – The only language that looks the same before and after RSA encryption.*
 <div align="right">
-  <i>~ Robert Sewell</i>
+  <i>~ Keith Bostic</i>
 </div>
