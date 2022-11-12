@@ -26,7 +26,7 @@
 
 ---
 
-*Perl – The only language that looks the same before and after RSA encryption.*
+*Programming is like sex: one mistake and you’re providing support for a lifetime.*
 <div align="right">
-  <i>~ Keith Bostic</i>
+  <i>~ Michael Sinz</i>
 </div>
