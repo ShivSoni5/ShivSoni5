@@ -26,7 +26,7 @@
 
 ---
 
-*Linux is only free if your time has no value.*
+*Perl – The only language that looks the same before and after RSA encryption.*
 <div align="right">
-  <i>~ Jamie Zawinski</i>
+  <i>~ Keith Bostic</i>
 </div>
