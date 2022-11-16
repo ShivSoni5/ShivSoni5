@@ -26,7 +26,7 @@
 
 ---
 
-*Perl – The only language that looks the same before and after RSA encryption.*
+*In C++ it’s harder to shoot yourself in the foot, but when you do, you blow off your whole leg.*
 <div align="right">
-  <i>~ Keith Bostic</i>
+  <i>~ Bjarne Stroustrup</i>
 </div>
