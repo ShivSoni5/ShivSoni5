@@ -26,7 +26,7 @@
 
 ---
 
-*In C++ it’s harder to shoot yourself in the foot, but when you do, you blow off your whole leg.*
+*I’ve noticed lately that the paranoid fear of computers becoming intelligent and taking over the world has almost entirely disappeared from the common culture.  Near as I can tell, this coincides with the release of MS-DOS.*
 <div align="right">
-  <i>~ Bjarne Stroustrup</i>
+  <i>~ Larry DeLuca</i>
 </div>
