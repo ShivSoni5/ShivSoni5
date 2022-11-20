@@ -26,7 +26,7 @@
 
 ---
 
-*No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved.*
+*If Java had true garbage collection, most programs would delete themselves upon execution.*
 <div align="right">
-  <i>~ Mark Gibbs</i>
+  <i>~ Robert Sewell</i>
 </div>
