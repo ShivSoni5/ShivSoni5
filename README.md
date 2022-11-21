@@ -26,7 +26,7 @@
 
 ---
 
-*If Java had true garbage collection, most programs would delete themselves upon execution.*
+*You should name a variable using the same care with which you name a first-born child.*
 <div align="right">
-  <i>~ Robert Sewell</i>
+  <i>~ James O. Coplien</i>
 </div>
