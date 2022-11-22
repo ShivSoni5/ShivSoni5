@@ -26,7 +26,7 @@
 
 ---
 
-*You should name a variable using the same care with which you name a first-born child.*
+*If debugging is the process of removing software bugs, then programming must be the process of putting them in.*
 <div align="right">
-  <i>~ James O. Coplien</i>
+  <i>~ E. W. Dijkstra</i>
 </div>
