@@ -26,7 +26,7 @@
 
 ---
 
-*If debugging is the process of removing software bugs, then programming must be the process of putting them in.*
+*Programming is like sex: one mistake and you’re providing support for a lifetime.*
 <div align="right">
-  <i>~ E. W. Dijkstra</i>
+  <i>~ Michael Sinz</i>
 </div>
